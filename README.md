@@ -12,6 +12,7 @@ The Realtime chat app with WebSockets using Node.js and Express is a web applica
 USAGE:
 ------
 
-npm install npm run dev
+npm install 
+npm run dev
 
 RUN IN THE LOCAL HOST:3000
